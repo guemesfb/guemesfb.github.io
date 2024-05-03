@@ -21,13 +21,10 @@ header {
     width: 100%;
 }
 
-h1 {
+h1, h2 {
     margin: 0;
 }
 
-section {
-    padding: 20px;
-    width: 800px;
 }
 }
 
