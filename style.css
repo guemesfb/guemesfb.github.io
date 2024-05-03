@@ -9,6 +9,11 @@ header {
 .info {
     font-size: 18px;
 }
+
+.sobre-mi p { 
+    width: 100%;
+}
+
 footer {
     width: 100%;
     background-color: #a00085;
