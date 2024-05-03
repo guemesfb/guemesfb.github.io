@@ -55,7 +55,6 @@ section {
     align-items: center !important;
     overflow-y: hidden;
     margin-right: 20px;
-    
 }
 
 .mora img {
@@ -76,6 +75,11 @@ ul {
 ul li {
     margin-bottom: 10px;
 }
+
+.habilidades {
+    padding-bottom: 80px;
+}
+
 footer {
     position: fixed;
     bottom: 0;
