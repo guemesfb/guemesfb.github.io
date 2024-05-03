@@ -9,6 +9,10 @@ body {
     height: 100vh;
 }
 
+main {
+    width: 800px;
+}
+
 header {
     background-color: #a00085;
     color: #fff;
@@ -59,6 +63,19 @@ section {
     height: auto;
 }
 
+
+.educacion, .experiencia {
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
 footer {
     position: fixed;
     bottom: 0;
